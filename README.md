@@ -1,6 +1,7 @@
 # Refined-Expatriates
 Refined Expatriates (Pre-alpha).
 This is a pre-alpha release; it is functional, but some models are missing, and I am not certain that every aspect of the mod works perfectly—use at your own risk.
+Due to platform restrictions, I cannot upload the file containing all the models, so if you want to use ir on your own risk you need to add models ;)
 
 ##It adds:
 
