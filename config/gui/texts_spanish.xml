@@ -1,0 +1,948 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- Productos -->
+    <!-- INICIO Cafetera de Goteo -->
+    <Text>
+      <GUID>1888999909</GUID>
+      <Text>Cafetera de Goteo</Text>
+    </Text>
+    <!-- INICIO Infusión de Frutas -->
+    <Text>
+      <GUID>1888999912</GUID>
+      <Text>Infusión de Frutas</Text>
+    </Text>
+    <!-- INICIO Guantes de Cuero -->
+    <Text>
+      <GUID>1888999917</GUID>
+      <Text>Guantes de Cuero</Text>
+    </Text>
+    <!-- Consulado -->
+    <Text>
+      <GUID>1888999953</GUID>
+      <Text>Consulado</Text>
+    </Text>
+    <Text>
+      <GUID>1888999954</GUID>
+      <Text>Gestiona relaciones exteriores y facilita la llegada de ciudadanos distinguidos.</Text>
+    </Text>
+    <!-- START Urban Planning Center-->   
+    <Text>
+      <GUID>1889000063</GUID>
+      <Text>Urban Planning Center</Text>
+    </Text>
+      <Text>
+      <GUID>1889000061</GUID>
+      <Text>La gestión centralizada de la ciudad mejora la seguridad y la estabilidad social, optimizando el funcionamiento de los servicios públicos.</Text>
+    </Text>
+    <!-- Meeting Room-->   
+    <Text>
+      <GUID>1889000099</GUID>
+      <Text>Salón de Reuniones</Text>
+    </Text>
+    <Text>
+      <GUID>1889000100</GUID>
+      <Text>Espacio destinado al encuentro y la conversación entre los sectores más refinados de la colonia.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999974</GUID>
+      <Text>Permiso de Asentamiento</Text>
+    </Text>
+    <Text>
+      <GUID>1889000356</GUID>
+      <Text>La autorización diplomática necesaria para establecer una comunidad de Sibaritas en territorio Embesano.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999973</GUID>
+      <Text>Concesión Migratoria</Text>
+    </Text>
+    <Text>
+      <GUID>1889000357</GUID>
+      <Text>La autorización necesaria para establecer la Oficina de Inmigración y organizar el traslado de población hacia Embesa.</Text>
+    </Text>
+  <!-- Casa matriz todo-->
+   <Text>
+      <GUID>1889000329</GUID>
+      <Text>Casa Matriz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000330</GUID>
+      <Text>Casa Matriz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000331</GUID>
+      <Text>Supervisión de Operaciones</Text>
+    </Text>
+    <Text>
+      <GUID>1889000332</GUID>
+      <Text>La administración central coordina las explotaciones mineras y mejora ligeramente su productividad.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000333</GUID>
+      <Text>En Funcionamiento</Text>
+    </Text>
+    <Text>
+      <GUID>1889000334</GUID>
+      <Text>Los edificios deben construirse dentro del alcance de la Casa Matriz para funcionar.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000335</GUID>
+      <Text>Fuera de Servicio</Text>
+    </Text>
+    <Text>
+      <GUID>1889000336</GUID>
+      <Text>Los edificios fuera del alcance de la Casa Matriz no están operativos.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000337</GUID>
+      <Text>Políticas corporativas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000338</GUID>
+      <Text>Seguridad Minera</Text>
+    </Text>
+    <Text>
+      <GUID>1889000339</GUID>
+      <Text>Seguridad Minera</Text>
+    </Text>
+    <Text>
+      <GUID>1889000340</GUID>
+      <Text>Mayores medidas de seguridad reducen incendios y explosiones, pero requieren más mano de obra y aumentan ligeramente el mantenimiento.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000342</GUID>
+      <Text>Explotación Intensiva</Text>
+    </Text>
+    <Text>
+      <GUID>1889000342</GUID>
+      <Text>Explotación Intensiva</Text>
+    </Text>
+    <Text>
+      <GUID>1889000343</GUID>
+      <Text>La ampliación de turnos y ritmos de extracción aumenta considerablemente la producción, pero provoca más enfermedades, averías y accidentes.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000344</GUID>
+      <Text>Administración de Concesiones</Text>
+    </Text>
+    <Text>
+      <GUID>1889000345</GUID>
+      <Text>Administración de Concesiones</Text>
+    </Text>
+    <Text>
+      <GUID>1889000346</GUID>
+      <Text>Una gestión rigurosa reduce las necesidades de mantenimiento y los disturbios, aunque disminuye ligeramente la productividad de las explotaciones.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000347</GUID>
+      <Text>Extracción Selectiva</Text>
+    </Text>
+    <Text>
+      <GUID>1889000348</GUID>
+      <Text>Extracción Selectiva</Text>
+    </Text>
+    <Text>
+      <GUID>1889000349</GUID>
+      <Text>La selección y clasificación exhaustiva de los minerales permite obtener pequeñas cantidades adicionales de cobre, oro, gemas y perlas, pero reduce la producción principal.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000350</GUID>
+      <Text>Máxima Rentabilidad</Text>
+    </Text>
+    <Text>
+      <GUID>1889000351</GUID>
+      <Text>Máxima Rentabilidad</Text>
+    </Text>
+    <Text>
+      <GUID>1889000352</GUID>
+      <Text>La compañía prioriza el rendimiento económico sobre la seguridad, aumentando la producción y los productos secundarios a costa de más incendios, explosiones, enfermedades y disturbios.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000353</GUID>
+      <Text>Licencia de Explotación</Text>
+    </Text>
+     <Text>
+      <GUID>1889000354</GUID>
+      <Text>La autorización oficial que permite a Embesa Mining S.A. establecer y administrar sus explotaciones mineras.</Text>
+    </Text>
+  <!-- Sibaritas y otros -->
+    <!-- fuerza laboral sibarita -->
+    <Text>
+      <GUID>1889000007</GUID>
+      <Text>Sibaritas</Text>
+    </Text>
+    <!-- sibarita -->
+    <Text>
+      <GUID>1889000008</GUID>
+      <Text>Fuerza Laboral Sibarita</Text>
+    </Text>
+    <!-- residencia sibarita nivel 1 -->
+    <Text>
+      <GUID>1889000009</GUID>
+      <Text>Residencia Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000010</GUID>
+      <Text>Residencias para europeos recién llegados a África, diseñadas para ofrecer comodidad y continuidad cultural en un nuevo entorno.</Text>
+    </Text>
+    <!-- sybarite recidence lvl 3-->   
+    <Text>
+      <GUID>1889000112</GUID>
+      <Text>Solar Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000113</GUID>
+      <Text>A spacious and well-established home, typical of the more affluent areas of the neighborhood. Its design combines comfort and prestige.</Text>
+    </Text>
+    <!-- residencia sibarita nivel 2 -->
+    <Text>
+      <GUID>1889000011</GUID>
+      <Text>Villa Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000012</GUID>
+      <Text>Vivienda amplia y consolidada, propia de los sectores más acomodados de la colonia. Su diseño combina comodidad y prestigio.</Text>
+    </Text>
+    <!-- Mansión de Sibarita-->
+    <Text>
+      <GUID>1889000044</GUID>
+      <Text>Mansión de Sibaritas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000047</GUID>
+      <Text>Mansiones urbanas lujosas para Sibaritas, donde el confort moderno y los placeres sofisticados definen una nueva forma de prestigio social.</Text>
+    </Text>
+    <!-- sybarite mood-->  
+    <Text>
+      <GUID>1889000055</GUID>
+      <Text>Sibarita enojado</Text>
+    </Text>
+    <Text>
+      <GUID>1889000056</GUID>
+      <Text>Sibarita Infeliz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000057</GUID>
+      <Text>Sibarita Neutro</Text>
+    </Text>
+    <Text>
+      <GUID>1889000058</GUID>
+      <Text>Sibarita feliz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000059</GUID>
+      <Text>Sibarita eufórico</Text>
+    </Text>
+  <!-- START Restaurant-->
+   <Text>
+      <GUID>1888999961</GUID>
+      <Text>Restaurante Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1888999962</GUID>
+      <Text>Un establecimiento refinado donde chefs expertos transforman ingredientes selectos en platos dignos de los paladares más exigentes.</Text>
+    </Text> 
+   <Text>
+      <GUID>1888999964</GUID>
+      <Text>Restaurante Sibarita: Ceviche de Lujo</Text>
+    </Text>
+    <Text>
+      <GUID>1888999966</GUID>
+      <Text>Una delicada preparación de langosta y calamar marinados en jugos cítricos y hierbas aromáticas, servido frío para preservar su frescura.</Text>
+    </Text> 
+    <Text>
+      <GUID>1888999969</GUID>
+      <Text>Restaurante Sibarita: Salmón con Hierbas</Text>
+    </Text>
+    <Text>
+      <GUID>1888999971</GUID>
+      <Text>Filetes de salmón cuidadosamente asados, realzados con una selección de hierbas aromáticas. Su sencilla preparación realza la calidad del pescado.</Text>
+    </Text> 
+    <Text>
+      <GUID>1888999980</GUID>
+      <Text>Restaurante Sibarita: Res con Especias Tropicales</Text>
+    </Text>
+    <Text>
+      <GUID>1889000096</GUID>
+      <Text>Tiernos cortes de res cocinados con especias aromáticas y acompañados de frutas tropicales, donde el dulzor equilibra la intensidad de la carne.</Text>
+    </Text> 
+   <!-- START Cafe-->
+    <Text>
+      <GUID>1889000073</GUID>
+      <Text>Café Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000074</GUID>
+      <Text>Espacio dedicado a las bebidas delicadas y a la pastelería selecta, donde el café, el chocolate y los dulces aromáticos se preparan con esmero para acompañar largas conversaciones y momentos de ocio distinguido.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000075</GUID>
+      <Text>Café Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000076</GUID>
+      <Text>Cafe Sibarita: Sharbat de Dátiles</Text>
+    </Text>
+    <Text>
+      <GUID>1889000077</GUID>
+      <Text>Una bebida dulce y perfumada elaborada a partir de dátiles macerados en leche de cabra y suavemente aromatizada con agua de rosas.</Text>
+    </Text> 
+    <Text>
+      <GUID>1889000080</GUID>
+      <Text>Cafe Sibarita: Pastel Tropical</Text>
+    </Text>
+    <Text>
+      <GUID>1889000082</GUID>
+      <Text>Esponjoso pastel elaborado con piñas maduras y un toque de mango, donde el dulzor natural se equilibra con una masa ligera y aromática.</Text>
+    </Text> 
+    <Text>
+      <GUID>1889000084</GUID>
+      <Text>Cafe Sibarita: Biscuits au Chocolat</Text>
+    </Text>
+    <Text>
+      <GUID>1889000086</GUID>
+      <Text>Crujientes biscuits acompañados de una suave pero dulce crema de chocolate y leche.</Text>
+    </Text> 
+  <!-- Desc recipe list -->   
+    <Text>
+      <GUID>1888999965</GUID>
+      <Text>Ceviche de Lujo</Text>
+    </Text>
+    <Text>
+      <GUID>1888999970</GUID>
+      <Text>Salmón con Hierbas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000095</GUID>
+      <Text>Res con Especias Tropicales</Text>
+    </Text>
+    <Text>
+      <GUID>1889000078</GUID>
+      <Text>Sharbat de Dátiles</Text>
+    </Text>
+    <Text>
+      <GUID>1889000081</GUID>
+      <Text>Pastel Tropical</Text>
+    </Text>
+    <Text>
+      <GUID>1889000085</GUID>
+      <Text>Biscuits au Chocolat</Text>
+    </Text>
+
+  <!-- Edificios -->
+    <!-- INICIO Taller de Cafetera de Goteo -->
+    <Text>
+      <GUID>1888999910</GUID>
+      <Text>Taller de Cafetera de Goteo</Text>
+    </Text>
+    <!-- INICIO Taller de Infusión de Frutas -->
+    <Text>
+      <GUID>1888999913</GUID>
+      <Text>Taller de Infusión de Frutas</Text>
+    </Text>
+    <!-- INICIO Taller de Guantes de Cuero -->
+    <Text>
+      <GUID>1888999918</GUID>
+      <Text>Taller de Guantes de Cuero</Text>
+    </Text>
+    <!-- INICIO Fábrica de Hilo de Coser Industrial -->
+    <Text>
+      <GUID>1888999926</GUID>
+      <Text>Fábrica de Hilo de Coser Industrial</Text>
+    </Text>
+    <!-- INICIO Tienda de Sombreros Fedora -->
+    <Text>
+      <GUID>1888999920</GUID>
+      <Text>Tienda de Sombreros Fedora</Text>
+    </Text>
+    <!-- INICIO Acuicultura de Salmón -->
+    <Text>
+      <GUID>1888999939</GUID>
+      <Text>Acuicultura de Salmón</Text>
+    </Text>
+    <!-- INICIO Piscina de Salmón -->
+    <Text>
+      <GUID>1888999940</GUID>
+      <Text>Piscina de Salmón</Text>
+    </Text>
+     <!-- INICIO Fábrica de Jabón de Oliva -->
+    <Text>
+      <GUID>1888999977</GUID>
+      <Text>Fábrica de Jabón de Oliva</Text>
+    </Text>
+    <!-- INICIO Cocina de Langosta -->
+    <Text>
+      <GUID>1889000005</GUID>
+      <Text>Cocina de Langosta</Text>
+    </Text>
+  <!-- Cadenas de producción -->
+    <!-- INICIO Cafetera de Goteo -->
+    <Text>
+      <GUID>1888999911</GUID>
+      <Text>Cafetera de Goteo</Text>
+    </Text>
+    <!-- INICIO Infusión de Frutas -->
+    <Text>
+      <GUID>1888999914</GUID>
+      <Text>Infusión de Frutas</Text>
+    </Text>
+    <!-- INICIO Guantes de Cuero -->
+    <Text>
+      <GUID>1888999919</GUID>
+      <Text>Guantes de Cuero</Text>
+    </Text>
+    <!-- INICIO Tienda de Sombreros Fedora -->
+    <Text>
+      <GUID>1888999921</GUID>
+      <Text>Tienda de Sombreros Fedora</Text>
+    </Text>
+    <!-- INICIO Fábrica de Jabón de Oliva -->
+    <Text>
+      <GUID>1888999978</GUID>
+      <Text>Jabón de Oliva</Text>
+    </Text>
+    <!-- INICIO Cocina de Langosta -->
+    <Text>
+      <GUID>1889000006</GUID>
+      <Text>Cocina de Langosta</Text>
+    </Text>
+      <!-- Minas-->
+    <!-- INICIO Pozo de Diamantes -->
+    <Text>
+      <GUID>1888999924</GUID>
+      <Text>Pozo de Diamantes</Text>
+    </Text>
+    <!-- INICIO Pozo de Piedras Preciosas -->
+    <Text>
+      <GUID>1888999925</GUID>
+      <Text>Pozo de Piedras Preciosas</Text>
+    </Text>
+     <!-- INICIO Pozo de Plata-->
+    <Text>
+      <GUID>1889000306</GUID>
+      <Text>Pozo de Plata</Text>
+    </Text>
+  <!-- Edificios públicos -->
+    <!-- Consulado -->
+    <Text>
+      <GUID>1888999955</GUID>
+      <Text>Consulado</Text>
+    </Text>
+    <!-- Bar -->
+    <Text>
+      <GUID>1888999957</GUID>
+      <Text>Bar</Text>
+    </Text>
+    <!-- Teatro de Variedades -->
+    <Text>
+      <GUID>1888999959</GUID>
+      <Text>Teatro de Variedades</Text>
+    </Text>
+    <!-- Burdel -->
+    <Text>
+      <GUID>1888999958</GUID>
+      <Text>Burdel</Text>
+    </Text>
+    <!-- Cine -->
+    <Text>
+      <GUID>1888999960</GUID>
+      <Text>Cine</Text>
+    </Text>
+    <!-- Central Hidroeléctrica Fluvial -->
+    <Text>
+      <GUID>1889000041</GUID>
+      <Text>Central Hidroeléctrica Fluvial</Text>
+    </Text>
+     <Text>
+      <GUID>1889000042</GUID>
+      <Text>Esta central eléctrica moderna utiliza la fuerza del agua para generar electricidad.</Text>
+    </Text>
+    <!-- Urban Planning Center-->   
+    <Text>
+      <GUID>1889000060</GUID>
+      <Text>Centro de Planificación Urbana</Text>
+    </Text>
+     <!-- Mercado Sibarita-->   
+    <Text>
+      <GUID>1889000088</GUID>
+      <Text>Mercado Sibarita</Text>
+    </Text>
+    <!-- Salón de Reuniones-->   
+    <Text>
+      <GUID>1889000110</GUID>
+      <Text>Salón de Reuniones</Text>
+    </Text>
+    <!-- Hospital-->   
+    <Text>
+      <GUID>1889000114</GUID>
+      <Text>Hospital</Text>
+    </Text>
+    <!-- Police Station -->   
+    <Text>
+      <GUID>1889000115</GUID>
+      <Text>Estación de policía</Text>
+    </Text>
+    <!-- Cine-->   
+    <Text>
+      <GUID>1889000116</GUID>
+      <Text>Cine</Text>
+    </Text>
+      <!-- Salón de Reuniones-->   
+    <Text>
+      <GUID>1889000117</GUID>
+      <Text>Salón de Reuniones</Text>
+    </Text>
+  <!-- Fábricas con bonificaciones -->
+    <!-- Oficina de Inmigración -->
+    <Text>
+      <GUID>1888999947</GUID>
+      <Text>Oficina de Inmigración</Text>
+    </Text>
+    <Text>
+      <GUID>1888999948</GUID>
+      <Text>Gestiona y supervisa la partida ordenada de ciudadanos hacia nuevos destinos.</Text>
+    </Text>
+    <!-- Anexo de Excavación -->
+    <Text>
+      <GUID>1889000001</GUID>
+      <Text>Anexo de Excavación</Text>
+    </Text>
+    <!-- Mercado Negro -->
+    <Text>
+      <GUID>1889000043</GUID>
+      <Text>Mercado Negro</Text>
+    </Text>
+    <!-- Gourmet Coffee Roaster-->   
+    <Text>
+      <GUID>1889000092</GUID>
+      <Text>Tostador de Café Gourmet</Text>
+    </Text>
+    <!-- Mezcal Lounge-->   
+    <Text>
+      <GUID>1889000101</GUID>
+      <Text>Mezcal Lounge</Text>
+    </Text>
+    <!-- Taller de Maquinaria Minera -->   
+    <Text>
+      <GUID>1889000358</GUID>
+      <Text>Taller de Maquinaria Minera</Text>
+    </Text>
+    <!-- Planta de Tratamiento Mineral -->   
+    <Text>
+      <GUID>1889000361</GUID>
+      <Text>Planta de Tratamiento Mineral</Text>
+    </Text>
+    <!-- Planta de Tratamiento Mineral -->   
+    <Text>
+      <GUID>1889000364</GUID>
+      <Text>Oficina de Prospección</Text>
+    </Text>
+    <!-- Oficina de Ingeniería Minera  -->   
+    <Text>
+      <GUID>1889000367</GUID>
+      <Text>Oficina de Ingeniería Minera</Text>
+    </Text>
+  <!-- Bonificaciones -->
+    <!-- Registro Centralizado -->
+    <Text>
+      <GUID>1888999949</GUID>
+      <Text>Registro Centralizado</Text>
+    </Text>
+    <Text>
+      <GUID>1888999950</GUID>
+      <Text>Optimiza el control de inventario, aumentando la capacidad de almacenamiento de edificios cercanos.</Text>
+    </Text>
+    <!-- Inestabilidad del terreno -->
+    <Text>
+      <GUID>1889000067</GUID>
+      <Text>Inestabilidad del terreno</Text>
+    </Text>
+    <Text>
+      <GUID>1889000068</GUID>
+      <Text>La proximidad de galerías de extracción causa tensiones subterráneas, generando deslizamientos y ralentizando el trabajo.</Text>
+    </Text>
+    <!-- Eficiencia de Extracción -->
+    <Text>
+      <GUID>1889000002</GUID>
+      <Text>Eficiencia de Extracción</Text>
+    </Text>
+    <Text>
+      <GUID>1889000003</GUID>
+      <Text>Optimiza la operación de los pozos mediante un sistema mecánico, aumentando la velocidad y el rendimiento de la extracción mineral.</Text>
+    </Text>
+    <!-- Red de Suministro Ilícita -->
+    <Text>
+      <GUID>1889000045</GUID>
+      <Text>Red de Suministro Ilícita</Text>
+    </Text>
+    <Text>
+      <GUID>1889000046</GUID>
+      <Text>Una red discreta de comercio clandestino reduce el consumo de bienes de lujo y sensibles, a costa de aumentar la delincuencia en la zona.</Text>
+    </Text>
+    <!-- Mantenimiento Especializado-->
+    <Text>
+      <GUID>1889000359</GUID>
+      <Text>Mantenimiento Especializado</Text>
+    </Text>
+    <Text>
+      <GUID>1889000360</GUID>
+      <Text>La revisión y reparación constante de la maquinaria minera reduce las averías y mejora ligeramente la productividad.</Text>
+    </Text>
+    <!-- Mantenimiento Especializado-->
+    <Text>
+      <GUID>1889000362</GUID>
+      <Text>Procesamiento de Minerales</Text>
+    </Text>
+    <Text>
+      <GUID>1889000363</GUID>
+      <Text>El tratamiento especializado del mineral mejora su aprovechamiento y aumenta ligeramente la producción de las explotaciones.</Text>
+    </Text>
+    <!-- Mantenimiento Especializado-->
+    <Text>
+      <GUID>1889000365</GUID>
+      <Text>Prospección Geológica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000366</GUID>
+      <Text>El estudio sistemático del terreno permite localizar nuevos yacimientos y mejorar el rendimiento de las explotaciones mineras.</Text>
+    </Text>
+    <!-- Ingeniería de Explotación-->
+    <Text>
+      <GUID>1889000368</GUID>
+      <Text>Ingeniería de Explotación</Text>
+    </Text>
+    <Text>
+      <GUID>1889000369</GUID>
+      <Text>La supervisión de ingenieros especializados optimiza las operaciones mineras y reduce los riesgos y costes de mantenimiento.</Text>
+    </Text>
+    <!-- Coordinated Planning-->   
+    <Text>
+      <GUID>1889000062</GUID>
+      <Text>Planificación Coordinada</Text>
+    </Text>
+    <!-- Gourmet Coffee Roaster-->   
+    <Text>
+      <GUID>1889000093</GUID>
+      <Text>Café de Especialidad</Text>
+    </Text>
+    <Text>
+      <GUID>1889000094</GUID>
+      <Text>Taller dedicado al tostado de café de alta calidad, diseñado para ofrecer a los conocedores mezclas aromáticas y exclusivas.</Text>
+    </Text>
+    <!-- Luxury Ceviche-->   
+    <Text>
+      <GUID>1888999967</GUID>
+      <Text>Ceviche de Lujo</Text>
+    </Text>
+    <!-- Salmon with Herbs-->   
+    <Text>
+      <GUID>1888999972</GUID>
+      <Text>Salmón con Hierbas</Text>
+    </Text>
+    <!-- Beef with Tropical Spices-->   
+    <Text>
+      <GUID>1889000097</GUID>
+      <Text>Res con Especias Tropicales</Text>
+    </Text>
+    <!-- Date Sharbat-->   
+    <Text>
+      <GUID>1889000079</GUID>
+      <Text>Sharbat de Dátiles</Text>
+    </Text>
+    <!-- Tropical Cake-->   
+    <Text>
+      <GUID>1889000083</GUID>
+      <Text>Pastel Tropical</Text>
+    </Text>
+    <!-- Chocolate Biscuits-->   
+    <Text>
+      <GUID>1889000087</GUID>
+      <Text>Biscuits au Chocolat</Text>
+    </Text>
+    <!-- Mezcal Lounge-->   
+    <Text>
+      <GUID>1889000109</GUID>
+      <Text>Mezcal Lounge</Text>
+    </Text>
+    <Text>
+      <GUID>1889000102</GUID>
+      <Text>Salón nocturno donde el mezcal se disfruta en un ambiente de conversación y descanso.</Text>
+    </Text>
+  <!-- Menús -->
+    <!-- Menú Sibarita -->
+    <Text>
+      <GUID>1888999945</GUID>
+      <Text>Sibarita</Text>
+    </Text>
+    <Text>
+      <GUID>1888999946</GUID>
+      <Text>Europeos en África</Text>
+    </Text>
+    <!-- Enbesa Mining Inc. -->
+    <Text>
+      <GUID>1889000004</GUID>
+      <Text>Enbesa Mining Inc.</Text>
+    </Text>
+    <!-- food services-->   
+    <Text>
+      <GUID>1889000098</GUID>
+      <Text>servicios alimenticios</Text>
+    </Text>
+   <!-- Euro Sybarites-->   
+    <Text>
+      <GUID>1889000118</GUID>
+      <Text>Sibaritas</Text>
+    </Text>
+  <!-- Grupos personalizados -->
+    <!-- TODAS las Residencias Sibaritas -->
+    <Text>
+      <GUID>1889000013</GUID>
+      <Text>TODAS las Residencias Sibaritas</Text>
+    </Text>
+    <!-- TODOS los Edificios de Producción Sibaritas -->
+    <Text>
+      <GUID>1889000014</GUID>
+      <Text>TODOS los Edificios de Producción Sibaritas</Text>
+    </Text>
+    <!-- TODOS los Servicios Públicos Sibaritas -->
+    <Text>
+      <GUID>1889000015</GUID>
+      <Text>TODOS los Servicios Públicos Sibaritas</Text>
+    </Text>
+    <!-- ALL Custom pool All sybarite Restaurants --> 
+    <Text>
+      <GUID>1889000103</GUID>
+      <Text>TODOS los Restaurantes Sibaritas</Text>
+    </Text>
+  <!-- popup message-->
+    <Text>
+      <GUID>1889000051</GUID>
+      <Text>&lt;br /&gt;&lt;br /&gt;&lt;font size="24"&gt;&lt;b&gt;NOTICIA DE ULTIMO MINUTO&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;font size="22"&gt;La élite europea llega a Enbesa en busca de un nuevo paraíso que prometa sol, riqueza y exotismo durante todo el año.&lt;br /&gt;La distinguida delegación compuesta por los autoproclamados sibaritas ha desembarcado en las costas de Enbesan, dispuesta a estrechar los lazos culturales y estrechar las relaciones entre las naciones.&lt;br /&gt;Esta oportunidad presenta nuevos desafíos pero también oportunidades para abrir nuevas rutas comerciales y obtener nuevos mercados para la importación y exportación de bienes exclusivos.&lt;br /&gt;Enbesa da la bienvenida a sus nuevos ciudadanos, que traen lo mejor de la cultura y costumbres europeas a las tierras salvajes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;La Reina&lt;/b&gt;&lt;/font&gt;</Text>
+    </Text>
+  <!-- Especialistas -->
+    <!-- INICIO Clara Méndez, Creadora de Filtros Reutilizables -->
+    <Text>
+      <GUID>1888999927</GUID>
+      <Text>Clara Méndez, Creadora de Filtros Reutilizables</Text>
+    </Text>
+    <Text>
+      <GUID>1888999928</GUID>
+      <Text>Una meticulosa ingeniera colombiana, Clara dedicó su carrera a perfeccionar las cafeteras de goteo, transformándolas en instrumentos de precisión. Sus filtros reutilizables regulan con exactitud el flujo de agua, extrayendo un sabor más intenso y consistente con cada preparación.</Text>
+    </Text>
+    <!-- INICIO Anthony Westwick, Sumiller de Tés de Hierbas Exóticos -->
+    <Text>
+      <GUID>1888999929</GUID>
+      <Text>Anthony Westwick, Sumiller de Tés de Hierbas Exóticos</Text>
+    </Text>
+    <Text>
+      <GUID>1888999930</GUID>
+      <Text>Westwick viajó a puertos y mercados lejanos catalogando hojas, cáscaras y frutas destinadas a la infusión. Aprendió a distinguir una fruta ordinaria de una con potencial digno con la misma precisión con la que otros juzgan un vino. Esa experiencia lo llevó a tratar el té de frutas como una bebida para catar.</Text>
+    </Text>
+    <!-- INICIO Silvano Palmetti, Botánico que descubrió la Palma Dorada -->
+    <Text>
+      <GUID>1888999931</GUID>
+      <Text>Silvano Palmetti, Botánico que descubrió la Palma Dorada</Text>
+    </Text>
+    <Text>
+      <GUID>1888999932</GUID>
+      <Text>Durante una expedición a archipiélagos remotos de Ecuador, Palmetti identificó una variedad única de palma cuyas hojas brillaban como si guardaran oro en su savia. Desde entonces, dedicó su trabajo y vida a reproducir y adaptar esa especie para plantaciones productivas.</Text>
+    </Text>
+    <!-- INICIO Eleanor Schaffer, Modista Especializada en Guantes -->
+    <Text>
+      <GUID>1888999933</GUID>
+      <Text>Eleanor Schaffer, Modista Especializada en Guantes</Text>
+    </Text>
+    <Text>
+      <GUID>1888999934</GUID>
+      <Text>Schaffer transformó el humilde guante en un artículo de lujo, donde cada costura cumple tanto un propósito estético como práctico. En sus talleres, el cuero se selecciona por su suavidad y durabilidad antes de ser moldeado en piezas que se mueven con la mano sin obstaculizarla.</Text>
+    </Text>
+    <!-- INICIO Amber Orleans, Ingeniera de Fibras Finas -->
+    <Text>
+      <GUID>1888999935</GUID>
+      <Text>Amber Orleans, Ingeniera de Fibras Finas</Text>
+    </Text>
+    <Text>
+      <GUID>1888999936</GUID>
+      <Text>Orleans dedicó su carrera a estudiar cómo las fibras más finas podían soportar las exigencias de la producción moderna sin perder calidad o resistencia. Gracias a sus métodos, tejidos antes frágiles se convirtieron en materiales confiables para la manufactura industrial de prendas.</Text>
+    </Text>
+    <!-- INICIO Fiodora Verdelli, Sombrerera de los Trópicos -->
+    <Text>
+      <GUID>1888999937</GUID>
+      <Text>Fiodora Verdelli, Sombrerera de los Trópicos</Text>
+    </Text>
+    <Text>
+      <GUID>1888999938</GUID>
+      <Text>Con habilidad prodigiosa, Fiodora transforma hojas de palma humildes en sombreros tan elegantes que incluso los trópicos parecen inclinarse ante ellos. En sus talleres, cada fronda se selecciona y da forma con precisión, combinando estética y fuerza, para que cada pieza sea a la vez duradera y refinada.</Text>
+    </Text>
+    <!-- INICIO Huevas de Salmón Chinook -->
+    <Text>
+      <GUID>1888999941</GUID>
+      <Text>Huevas de Salmón Chinook</Text>
+    </Text>
+    <Text>
+      <GUID>1888999942</GUID>
+      <Text>Conocidas por su tamaño impresionante, las huevas de salmón Chinook fueron fundamentales tanto para la pesca comercial como para los primeros experimentos de cría a principios del siglo XX. Su presencia marcó un hito en la economía pesquera y sentó las bases de la acuicultura moderna.</Text>
+    </Text>
+    <!-- INICIO Dr. Magnus Torsk, Zoólogo Criador de Salmón -->
+    <Text>
+      <GUID>1888999943</GUID>
+      <Text>Dr. Magnus Torsk, Zoólogo y Criador de Salmón</Text>
+    </Text>
+    <Text>
+      <GUID>1888999944</GUID>
+      <Text>Un pionero en la cría controlada de salmón, el Dr. Torsk perfeccionó el uso de piscifactorías para asegurar salmones más saludables y abundantes durante todo el año. Su trabajo transformó la pesca tradicional en una industria planificada, donde la ciencia y la paciencia reemplazan la naturaleza impredecible del mar.</Text>
+    </Text>
+    <!-- INICIO Benedict Doyle, Maestro de la Cocina -->
+    <Text>
+      <GUID>1889000017</GUID>
+      <Text>Benedict Doyle, Maestro de la Cocina</Text>
+    </Text>
+    <Text>
+      <GUID>1889000018</GUID>
+      <Text>El rey indiscutible del almuerzo, Doyle ha dominado el arte de estratificar sabores y texturas de formas precisas que transforman lo cotidiano en extraordinario. Ya sea un sándwich simple o un plato gourmet de camarones, cada ingrediente ocupa un lugar calculado dentro de una estructura perfectamente comestible.</Text>
+    </Text>
+    <!-- INICIO Don Tocornal, Inspector de Sobriedad Social -->
+    <Text>
+      <GUID>1889000019</GUID>
+      <Text>Don Tocornal, Inspector de Sobriedad Social</Text>
+    </Text>
+    <Text>
+      <GUID>1889000020</GUID>
+      <Text>Una figura legendaria en los salones de Valparaíso y Santiago, Don Tocornal aprendió entre viñedos y tabernas que el verdadero arte del vino no está en beber más, sino en beber mejor. Frecuenta bares, burdeles y restaurantes como un caballero discreto, afinando recetas hasta que el exceso se convierte en convivencia refinada.</Text>
+    </Text>
+    <!-- INICIO Aurelio Montreval, Genio del Espectáculo Moderno -->
+    <Text>
+      <GUID>1889000021</GUID>
+      <Text>Aurelio Montreval, Genio del Espectáculo Moderno</Text>
+    </Text>
+    <Text>
+      <GUID>1889000022</GUID>
+      <Text>Un ex empresario de ferias de arte y teatros, Montreval entendió antes que nadie que la élite busca no solo historias, sino experiencias completas. Transformó el cine y teatro incipientes en templos del asombro, donde luces, música y maquinaria escénica trabajan al unísono para mantener al público cautivado.</Text>
+    </Text>
+    <!-- INICIO Silvestre Montbard, Alto Comisionado para la Atracción Civil -->
+    <Text>
+      <GUID>1889000023</GUID>
+      <Text>Silvestre Montbard, Alto Comisionado para la Atracción Civil</Text>
+    </Text>
+    <Text>
+      <GUID>1889000024</GUID>
+      <Text>Un veterano de innumerables tratados y recepciones oficiales, desde los salones del consulado orquesta campañas de prestigio, promesas de estabilidad y acuerdos favorables que atraen nuevos sibaritas como polillas a la llama. Su pluma transforma impuestos en compromisos aceptables y la migración en inversión social.</Text>
+    </Text>
+    <!-- INICIO Héctor Valdemar Quintray, Supervisor General de Servicios Urbanos -->
+    <Text>
+      <GUID>1889000025</GUID>
+      <Text>Héctor Valdemar Quintray, Supervisor General de Servicios Urbanos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000026</GUID>
+      <Text>Formado en oficinas de obras públicas y salas de planificación social, Quintray mantiene que el lujo solo es posible cuando la infraestructura funciona a la perfección. Ha dedicado su carrera a coordinar infraestructuras urbanas como si fueran partes de una sola máquina perfectamente engrasada.</Text>
+    </Text>
+    <!-- INICIO Octavio Bellamy, Regulador del Estilo de Vida Urbano -->
+    <Text>
+      <GUID>1889000029</GUID>
+      <Text>Octavio Bellamy, Regulador del Estilo de Vida Urbano</Text>
+    </Text>
+    <Text>
+      <GUID>1889000030</GUID>
+      <Text>Convencido de que la prosperidad se construye sobre hábitos bien dirigidos, Bellamy transformó distritos prósperos y progresistas en modelos de consumo elegante y racional. Sus estándares para el aprovisionamiento y la organización doméstica permiten un consumo reducido sin disminuir la experiencia cotidiana.</Text>
+    </Text>
+    <!-- INICIO Sigrún Nýhlfjörð, Supervisora de Manufactura Refinada -->
+    <Text>
+      <GUID>1889000031</GUID>
+      <Text>Sigrún Nýhlfjörð, Supervisora de Manufactura Refinada</Text>
+    </Text>
+    <Text>
+      <GUID>1889000032</GUID>
+      <Text>Formada en talleres industriales y en el norte, Sigrún aplicó la disciplina industrial al mundo de los bienes de lujo de alta gama. Su talento radica en mejorar la producción, haciendo que las fábricas operen con precisión de relojería sin importar los costos adicionales involucrados.</Text>
+    </Text>
+    <!-- INICIO Revista de Descubrimientos Científicos -->
+    <Text>
+      <GUID>1889000033</GUID>
+      <Text>Revista de Descubrimientos Científicos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000034</GUID>
+      <Text>Un compendio de investigación meticulosamente compilado que organiza y preserva los últimos avances del pensamiento científico. Sus páginas transforman observaciones aisladas en conocimiento verificable y accesible para eruditos de todo el mundo.</Text>
+    </Text>
+    <!-- INICIO Carta de Amigo por Correspondencia -->
+    <Text>
+      <GUID>1889000035</GUID>
+      <Text>Carta de Amigo por Correspondencia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000036</GUID>
+      <Text>Una carta que llega desde tierras lejanas, cargada de palabras rebosantes de afecto y recuerdos compartidos. Leerla alivia la distancia y transforma la espera en compañía, mitigando la nostalgia inherente a la comunicación a larga distancia.</Text>
+    </Text>
+    <!-- INICIO Carta del Hijo -->
+    <Text>
+      <GUID>1889000037</GUID>
+      <Text>Carta del Hijo</Text>
+    </Text>
+    <Text>
+      <GUID>1889000038</GUID>
+      <Text>Pocas cosas alegran más el día que las palabras sinceras de un niño, escritas con cariño y torpeza entrañable. Cada línea transmite cercanía, incluso desde la mayor distancia. Leerlas hace que cualquier otra correspondencia parezca superflua comparada con ese vínculo irremplazable.</Text>
+    </Text>
+    <!-- INICIO Carta de la Madre -->
+    <Text>
+      <GUID>1889000039</GUID>
+      <Text>Carta de la Madre</Text>
+    </Text>
+    <Text>
+      <GUID>1889000040</GUID>
+      <Text>Las palabras de una madre llevan una calidez y ternura que ningún otro mensaje puede igualar. En cada oración, se puede sentir el cuidado, la preocupación y el amor constante que trasciende la distancia. Leerlas reconforta el alma y trae de vuelta una sensación de hogar, incluso en los lugares más distantes.</Text>
+    </Text>
+    <!-- INICIO Beatrice Van Holtz, Curadora del Bienestar Aristocrático -->
+    <Text>
+      <GUID>1889000048</GUID>
+      <Text>Beatrice Van Holtz, Curadora del Bienestar Aristocrático</Text>
+    </Text>
+    <Text>
+      <GUID>1889000049</GUID>
+      <Text>Especialista en la vida doméstica de la alta sociedad, Van Holtz aprendió que incluso el lujo necesita reglas para no volverse excesivo. Reformó la gestión de las mansiones de inversores mediante protocolos de servicio, consumo moderado y la distribución eficiente del confort.</Text>
+    </Text>
+    <!-- START Marguerite Delacroix, Administrator of Domestic Welfare-->   
+    <Text>
+      <GUID>1889000027</GUID>
+      <Text>Marguerite Delacroix, Administradora de Bienestar Doméstico</Text>
+    </Text>
+    <Text>
+      <GUID>1889000028</GUID>
+      <Text>Convencida de que el lujo comienza por el orden cotidiano, Delacroix dedica su carrera a optimizar la vida en los primeros barrios sibaritas. Introdujo rutinas domésticas, distribución eficiente de provisiones y normas de convivencia que reducen el despilfarro sin sacrificar comodidad.</Text>
+    </Text> 
+    <!-- START Nahla Yafouri, Guardian of the Jaffa's Oranges-->   
+    <Text>
+      <GUID>1889000104</GUID>
+      <Text>Nahla Yafouri, Guardiana de las Naranjas de Jaffa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000105</GUID>
+      <Text>Obligada a abandonar su hogar entre los naranjales de Jaffa, Nahla partió hacia Sudamérica con unas semillas escondidas entre sus pertenencias. Allí, en la tierra que le ofreció un nuevo comienzo, plantó las semillas de la tierra que la vio nacer, pues mientras viva, las naranjas de Jaffa crecerán.</Text>
+    </Text> 
+    <!-- START Claudette Beaumont, Overseas Kitchen Inspector-->   
+    <Text>
+      <GUID>1889000106</GUID>
+      <Text>Claudette Beaumont, Inspectora de la Cocina de Ultramar</Text>
+    </Text>
+    <Text>
+      <GUID>1889000107</GUID>
+      <Text>Formada en las cocinas más exigentes del continente europeo, Beaumont fue enviada a Enbesa para adaptar la alta gastronomía sibarita a ingredientes y climas lejanos. Allí aprendió a combinar técnicas refinadas con especias locales, transformando los restaurantes en vitrinas de prestigio culinario.</Text>
+    </Text> 
+    <!-- START Vittoria Sambuco, Empress of Aromatic Stills-->   
+    <Text>
+      <GUID>1889000119</GUID>
+      <Text>Vittoria Sambuco, Emperatriz de los Alambiques Aromáticos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000120</GUID>
+      <Text>Descendiente de una antigua casa de la realeza italiana y heredera de un linaje de maestros destiladores, Vittoria aprendió a mezclar nobleza y oficio en la misma copa. En sus alambiques se combinan protocolos cortesanos y recetas transmitidas en voz baja durante generaciones.</Text>
+    </Text>
+    <!-- START Leopold von Edelstein, Rare Gem Trader-->   
+    <Text>
+      <GUID>1889000303</GUID>
+      <Text>Leopold von Edelstein, Comerciante de Gemas Raras</Text>
+    </Text>
+    <Text>
+      <GUID>1889000304</GUID>
+      <Text>Descendiente de una antigua familia de Gemologos imperiales Prusianos, ha dedicado su vida a la búsqueda y comercio de las piedras mas preciosas raras. Sus contactos se extienden desde minas olvidadas y mercados negros hasta salones aristocráticos donde cada gema cuenta una historia.</Text>
+    </Text> 
+  </ModOp>
+</ModOps>

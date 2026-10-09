@@ -1,0 +1,537 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- Products-->
+    <!-- START Drip Coffee Pot-->   
+    <Text>
+      <GUID>1888999909</GUID>
+      <Text>Drip Coffee Pot</Text>
+    </Text>
+    <!-- START Fruit Infusion-->   
+    <Text>
+      <GUID>1888999912</GUID>
+      <Text>Fruit Infusion</Text>
+    </Text>
+    <!-- START Leather Gloves-->   
+    <Text>
+      <GUID>1888999917</GUID>
+      <Text>Leather Gloves</Text>
+    </Text>
+    <!-- START Urban Planning Center-->   
+    <Text>
+      <GUID>1889000063</GUID>
+      <Text>Urban Planning Center</Text>
+    </Text>
+      <Text>
+      <GUID>1889000061</GUID>
+      <Text>Centralized city management improves safety and social stability, optimizing the functioning of public services.</Text>
+    </Text>
+  <!-- Buff factory-->
+    <!-- Consulado-->   
+    <Text>
+      <GUID>1888999953</GUID>
+      <Text>Consulate</Text>
+    </Text>
+    <Text>
+      <GUID>1888999954</GUID>
+      <Text>Manages foreign relations and facilitates the arrival of distinguished citizens.</Text>
+    </Text>
+  <!-- Sybarites et all-->
+    <!-- sybarite workforce-->   
+    <Text>
+      <GUID>1889000007</GUID>
+      <Text>Sybarites</Text>
+    </Text>
+    <!-- sybarite-->   
+    <Text>
+      <GUID>1889000008</GUID>
+      <Text>Sybarites Workforce</Text>
+    </Text>
+    <!-- sybarite recidence lvl 1-->   
+    <Text>
+      <GUID>1889000009</GUID>
+      <Text>Sybarite Residence</Text>
+    </Text>
+    <Text>
+      <GUID>1889000010</GUID>
+      <Text>Residences for Europeans newly arrived in Africa, designed to offer comfort and cultural continuity in a new environment.</Text>
+    </Text>
+    <!-- sybarite recidence lvl 2-->   
+    <Text>
+      <GUID>1889000044</GUID>
+      <Text>Sybarite Villa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000047</GUID>
+      <Text>Spacious and well-established residences for the European elite already settled in Africa, where initial comfort transforms into ostentation and an active social life.</Text>
+    </Text>
+    <!-- sybarite mood-->  
+    <Text>
+      <GUID>1889000055</GUID>
+      <Text>Angry sybarite</Text>
+    </Text>
+    <Text>
+      <GUID>1889000056</GUID>
+      <Text>Unhappy sybarite</Text>
+    </Text>
+    <Text>
+      <GUID>1889000057</GUID>
+      <Text>Neutral sybarite</Text>
+    </Text>
+    <Text>
+      <GUID>1889000058</GUID>
+      <Text>Happy sybarite</Text>
+    </Text>
+    <Text>
+      <GUID>1889000059</GUID>
+      <Text>Euphoric sybarite</Text>
+    </Text>
+   <!-- Investor Mansion-->   
+    <Text>
+      <GUID>1889000044</GUID>
+      <Text>Investor Mansion</Text>
+    </Text>
+    <Text>
+      <GUID>1889000047</GUID>
+      <Text>Luxurious urban mansions for investors, where modern comfort and sophisticated pleasures define a new form of social prestige.</Text>
+    </Text>
+  <!-- Buildings-->
+    <!-- START Drip Coffee Pot Workshop-->   
+    <Text>
+      <GUID>1888999910</GUID>
+      <Text>Drip Coffee Pot Workshop</Text>
+    </Text>
+    <!-- START Fruit Infusion Workshop-->   
+    <Text>
+      <GUID>1888999913</GUID>
+      <Text>Fruit Infusion Workshop</Text>
+    </Text>
+    <!-- START Leather Gloves Workshop-->   
+    <Text>
+      <GUID>1888999918</GUID>
+      <Text>Leather Gloves Workshop</Text>
+    </Text>
+    <!-- START Industrial Sewing Thread Factory-->   
+    <Text>
+      <GUID>1888999926</GUID>
+      <Text>Industrial Sewing Thread Factory</Text>
+    </Text>
+    <!-- START Fedora Hat Shop-->   
+    <Text>
+      <GUID>1888999920</GUID>
+      <Text>Fedora Hat Shop</Text>
+    </Text>
+    <!-- START Salmon Aquafarm-->   
+    <Text>
+      <GUID>1888999939</GUID>
+      <Text>Salmon Aquafarm</Text>
+    </Text>
+    <!-- START Salmon Pool-->   
+    <Text>
+      <GUID>1888999940</GUID>
+      <Text>Salmon Pool</Text>
+    </Text>
+     <!-- START Olive Soap Factory-->   
+    <Text>
+      <GUID>1888999977</GUID>
+      <Text>Olive Soap Factory</Text>
+    </Text>
+    <!-- START Lobster cuisine-->   
+    <Text>
+      <GUID>1889000005</GUID>
+      <Text>Lobster Cuisine</Text>
+    </Text>
+  <!-- Chains-->
+    <!-- START Drip Coffee Pot-->   
+    <Text>
+      <GUID>1888999911</GUID>
+      <Text>Drip Coffee Pot</Text>
+    </Text>
+    <!-- START Fruit Infusion-->   
+    <Text>
+      <GUID>1888999914</GUID>
+      <Text>Fruit Infusion</Text>
+    </Text>
+    <!-- START Leather Gloves-->   
+    <Text>
+      <GUID>1888999919</GUID>
+      <Text>Leather Gloves</Text>
+    </Text>
+    <!-- START Fedora Hat Shop-->   
+    <Text>
+      <GUID>1888999921</GUID>
+      <Text>Fedora Hat Shop</Text>
+    </Text>
+    <!-- START Olive Soap Factory-->   
+    <Text>
+      <GUID>1888999978</GUID>
+      <Text>Olive Soap</Text>
+    </Text>
+    <!-- START Lobster cuisine-->   
+    <Text>
+      <GUID>1889000006</GUID>
+      <Text>Lobster Cuisine</Text>
+    </Text>
+<!-- Pit--> 
+    <!-- START Diamond Pit-->   
+    <Text>
+      <GUID>1888999924</GUID>
+      <Text>Diamond Pit</Text>
+    </Text>
+    <!-- START Gemstone Pit-->   
+    <Text>
+      <GUID>1888999925</GUID>
+      <Text>Gemstone Pit</Text>
+    </Text>
+    <!-- INICIO Silver pit-->
+    <Text>
+      <GUID>1889000306</GUID>
+      <Text>Silver Pit</Text>
+    </Text>
+  <!-- Public building-->
+    <!-- Consulado-->   
+    <Text>
+      <GUID>1888999955</GUID>
+      <Text>Consulate</Text>
+    </Text>
+    <Text>
+      <GUID>1888999954</GUID>
+      <Text>Manages foreign relations and facilitates the arrival of distinguished citizens.</Text>
+    </Text>
+    <!-- Bar-->   
+    <Text>
+      <GUID>1888999957</GUID>
+      <Text>Bar</Text>
+    </Text>
+    <!-- Variety Theatre-->   
+    <Text>
+      <GUID>1888999959</GUID>
+      <Text>Variety Theatre</Text>
+    </Text>
+    <!-- Variety Brothel-->   
+    <Text>
+      <GUID>1888999958</GUID>
+      <Text>Brothel</Text>
+    </Text>
+    <!-- Cinema-->   
+    <Text>
+      <GUID>1888999960</GUID>
+      <Text>Cinema</Text>
+    </Text>
+    <!-- River Power Plant-->   
+    <Text>
+      <GUID>1889000041</GUID>
+      <Text>River Power Plant</Text>
+    </Text>
+     <Text>
+      <GUID>1889000042</GUID>
+      <Text>This modern power plant uses the power of water to generate electricity.</Text>
+    </Text>
+    <!-- Urban Planning Center-->   
+    <Text>
+      <GUID>1889000060</GUID>
+      <Text>Urban Planning Center</Text>
+    </Text>
+  <!-- Buff factory-->
+    <!-- Immigration Office-->   
+    <Text>
+      <GUID>1888999947</GUID>
+      <Text>Immigration Office</Text>
+    </Text>
+    <Text>
+      <GUID>1888999948</GUID>
+      <Text>Manages and oversees the orderly departure of citizens to new destinations.</Text>
+    </Text>
+    <!-- Excavation Annex-->   
+    <Text>
+      <GUID>1889000001</GUID>
+      <Text>Excavation Annex</Text>
+    </Text>
+    <!-- Black Market-->   
+    <Text>
+      <GUID>1889000043</GUID>
+      <Text>Black Market</Text>
+    </Text>
+  <!-- Buffs-->
+    <!-- Centralized Registry-->   
+    <Text>
+      <GUID>1888999949</GUID>
+      <Text>Centralized Registry</Text>
+    </Text>
+    <Text>
+      <GUID>1888999950</GUID>
+      <Text>Optimizes inventory control, increasing the storage capacity of nearby buildings.</Text>
+    </Text>
+    <!-- Ground instability-->   
+    <Text>
+      <GUID>1888999999</GUID>
+      <Text>Ground instability</Text>
+    </Text>
+    <Text>
+      <GUID>1889000000</GUID>
+      <Text>The proximity of extraction galleries causes underground stresses, generating landslides and slowing down work.</Text>
+    </Text>
+    <!-- Extraction Efficiency-->   
+    <Text>
+      <GUID>1889000002</GUID>
+      <Text>Extraction Efficiency</Text>
+    </Text>
+    <Text>
+      <GUID>1889000003</GUID>
+      <Text>Optimizes the operation of the pits through a mechanical system, increasing the speed and performance of mineral extraction.</Text>
+    </Text>
+    <!-- Illicit Supply Network-->   
+    <Text>
+      <GUID>1889000045</GUID>
+      <Text>Illicit Supply Network</Text>
+    </Text>
+    <Text>
+      <GUID>1889000046</GUID>
+      <Text>A discreet network of clandestine trade reduces the consumption of luxury and sensitive goods, at the cost of increasing crime in the area.</Text>
+    </Text>
+    <!-- Coordinated Planning-->   
+    <Text>
+      <GUID>1889000062</GUID>
+      <Text>Coordinated Planning</Text>
+    </Text>
+    <!-- Coordinated Planning-->   
+    <Text>
+      <GUID>1889000062</GUID>
+      <Text>Coordinated Planning</Text>
+    </Text>
+  <!-- menus-->
+    <!-- Sybarite menu-->   
+    <Text>
+      <GUID>1888999945</GUID>
+      <Text>Sybarite</Text>
+    </Text>
+    <Text>
+      <GUID>1888999946</GUID>
+      <Text>Europeans in Africa</Text>
+    </Text>
+    <!-- Embesa Mining Inc-->   
+    <Text>
+      <GUID>1889000004</GUID>
+      <Text>Enbesa Mining Inc.</Text>
+    </Text>
+  <!-- custom pools-->
+    <!-- ALL sybarite Residences--> 
+    <Text>
+      <GUID>1889000013</GUID>
+      <Text>ALL Sybarite Residences</Text>
+    </Text>
+    <!-- ALL ALL sybarite Production Buildings --> 
+    <Text>
+      <GUID>1889000014</GUID>
+      <Text>ALL Sybarite Production Buildings</Text>
+    </Text>
+    <!-- ALL Custom pool ALL sybarite Public Services --> 
+    <Text>
+      <GUID>1889000015</GUID>
+      <Text>ALL Sybarite Public Services</Text>
+    </Text>
+  <!-- popup message-->
+    <Text>
+      <GUID>1889000051</GUID>
+      <Text>&lt;br /&gt;&lt;br /&gt;&lt;font size="24"&gt;&lt;b&gt;AN IMPORTANT MATTER&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;font size="22"&gt;The European elite arrives at Enbesa in search of a new paradise, one that promises sun, wealth and exoticism all year round.&lt;br /&gt;The distinguished delegation made up of the self-proclaimed Sybarites has landed on the Enbesan coast, ready to strengthen cultural ties and strengthen relationships between nations.&lt;br /&gt;This opportunity presents new challenges but also opportunities to open new trade routes and obtain new markets for the import and export of exclusive goods.&lt;br /&gt;Enbesa welcomes its new citizens, who bring the best of European culture and customs to the wild lands.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The Queen&lt;/b&gt;&lt;/font&gt;</Text>
+    </Text>
+  <!-- Specialists-->
+    <!-- START Clara Méndez, Creator of Reusable Filters-->   
+    <Text>
+      <GUID>1888999927</GUID>
+      <Text>Clara Méndez, Creator of Reusable Filters</Text>
+    </Text>
+    <Text>
+      <GUID>1888999928</GUID>
+      <Text>A meticulous Colombian engineer, Clara dedicated her career to perfecting drip coffee makers, transforming them into precision instruments. Her reusable filters accurately regulate water flow, extracting a more intense and consistent flavor with every brew.</Text>
+    </Text>
+    <!-- START Anthony Westwick, Exotic Herbal Tea Sommelier-->   
+    <Text>
+      <GUID>1888999929</GUID>
+      <Text>Anthony Westwick, Exotic Herbal Tea Sommelier</Text>
+    </Text>
+    <Text>
+      <GUID>1888999930</GUID>
+      <Text>Westwick traveled to distant ports and markets cataloging leaves, peels, and fruits destined for infusion. He learned to distinguish an ordinary fruit from one with worthy potential with the same precision with which others judge a wine. That experience led him to treat fruit tea as a beverage to be tasted.</Text>
+    </Text>
+    <!-- START Silvano Palmetti, Botanist who discovered the Golden Palm-->   
+    <Text>
+      <GUID>1888999931</GUID>
+      <Text>Silvano Palmetti, Botanist who discovered the Golden Palm</Text>
+    </Text>
+    <Text>
+      <GUID>1888999932</GUID>
+      <Text>During an expedition to remote archipelagos in Ecuador, Palmetti identified a unique variety of palm whose leaves shone as if they held gold in their sap. From then on, he dedicated his work and life to reproducing and adapting that species for productive plantations.</Text>
+    </Text>
+    <!-- START Eleanor Schaffer, Dressmaker Specializing in Gloves-->   
+    <Text>
+      <GUID>1888999933</GUID>
+      <Text>Eleanor Schaffer, Dressmaker Specializing in Gloves</Text>
+    </Text>
+    <Text>
+      <GUID>1888999934</GUID>
+      <Text>Schaffer transformed the humble glove into a luxury item, where every seam serves both an aesthetic and a practical purpose. In his workshops, the leather is selected for its softness and durability before being shaped into pieces that move with the hand without hindering it.</Text>
+    </Text>
+    <!-- START Amber Orleans, Fine Fiber Engineer-->   
+    <Text>
+      <GUID>1888999935</GUID>
+      <Text>Amber Orleans, Fine Fiber Engineer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999936</GUID>
+      <Text>Orleans dedicated his career to studying how the finest fibers could withstand the demands of modern production without losing quality or strength. Thanks to his methods, once fragile fabrics became reliable materials for industrial garment manufacturing.</Text>
+    </Text>
+    <!-- START Fiodora Verdelli, Milliner of the Tropics-->   
+    <Text>
+      <GUID>1888999937</GUID>
+      <Text>Fiodora Verdelli, Milliner of the Tropics</Text>
+    </Text>
+    <Text>
+      <GUID>1888999938</GUID>
+      <Text>With prodigious skill, Fidora transforms humble palm leaves into hats so elegant that even the tropics seem to bow before them. In her workshops, each frond is selected and shaped with precision, combining aesthetics and strength, so that each piece is both durable and refined.</Text>
+    </Text>
+    <!-- START Chinook Salmon Eggs-->   
+    <Text>
+      <GUID>1888999941</GUID>
+      <Text>Chinook Salmon Eggs</Text>
+    </Text>
+    <Text>
+      <GUID>1888999942</GUID>
+      <Text>Known for their impressive size, Chinook salmon eggs were fundamental to both commercial fishing and early farming experiments in the early 20th century. Their presence marked a milestone in the fishing economy and laid the foundation for modern aquaculture.</Text>
+    </Text>
+    <!-- START Dr. Magnus Torsk, Zoólogo Criador de Salmón-->   
+    <Text>
+      <GUID>1888999943</GUID>
+      <Text>Dr. Magnus Torsk, Zoologist and Salmon Farmer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999944</GUID>
+      <Text>A pioneer in controlled salmon farming, Dr. Torsk perfected the use of salmon farms to ensure healthier and more abundant salmon year-round. His work transformed traditional fishing into a planned industry, where science and patience replace the unpredictable nature of the sea.</Text>
+    </Text>
+    <!-- START Benedict Doyle, Master of Cooking-->   
+    <Text>
+      <GUID>1889000017</GUID>
+      <Text>Benedict Doyle, Master of Cooking</Text>
+    </Text>
+    <Text>
+      <GUID>1889000018</GUID>
+      <Text>The undisputed king of lunch, Doyle has mastered the art of layering flavors and textures in precise ways that transform the everyday into the extraordinary. Whether it's a simple sandwich or a gourmet shrimp dish, every ingredient occupies a calculated place within a perfectly edible structure.</Text>
+    </Text>
+    <!-- START Don Tocornal, Inspector of Social Sobriety-->   
+    <Text>
+      <GUID>1889000019</GUID>
+      <Text>Don Tocornal, Inspector of Social Sobriety</Text>
+    </Text>
+    <Text>
+      <GUID>1889000020</GUID>
+      <Text>A legendary figure in the salons of Valparaíso and Santiago, Don Tocornal learned among vineyards and taverns that the true art of wine lies not in drinking more, but in drinking better. He frequents bars, brothels, and restaurants like a discreet gentleman, fine-tuning recipes until excess becomes refined conviviality.</Text>
+    </Text>
+    <!-- START Aurelio Montreval, Genius of Modern Spectacle-->   
+    <Text>
+      <GUID>1889000021</GUID>
+      <Text>Aurelio Montreval, Genius of Modern Spectacle</Text>
+    </Text>
+    <Text>
+      <GUID>1889000022</GUID>
+      <Text>A former entrepreneur of art fairs and theaters, Montreval understood before anyone else that the elite seek not just stories, but complete experiences. He transformed the nascent cinema and theater into temples of wonder, where lights, music, and stage machinery work in unison to keep the audience captivated.</Text>
+    </Text>
+    <!-- START Silvestre Montbard, High Commissioner for Civil Attraction-->   
+    <Text>
+      <GUID>1889000023</GUID>
+      <Text>Silvestre Montbard, High Commissioner for Civil Attraction</Text>
+    </Text>
+    <Text>
+      <GUID>1889000024</GUID>
+      <Text>A veteran of countless treaties and official receptions, from the consulate's halls he orchestrates prestige campaigns, promises of stability, and favorable agreements that attract new sybarites like moths to a flame. His pen transforms taxes into acceptable compromises and migration into social investment.</Text>
+    </Text>
+    <!-- START Héctor Valdemar Quintray, General Supervisor of Urban Services-->   
+    <Text>
+      <GUID>1889000025</GUID>
+      <Text>Héctor Valdemar Quintray, General Supervisor of Urban Services</Text>
+    </Text>
+    <Text>
+      <GUID>1889000026</GUID>
+      <Text>Trained in public works offices and social planning rooms, Quintray maintains that luxury is only possible when the infrastructure functions flawlessly. He has dedicated his career to coordinating urban infrastructure as if it were parts of a single, perfectly oiled machine.</Text>
+    </Text>
+    <!-- START Octavio Bellamy, Regulator of Urban Lifestyle-->   
+    <Text>
+      <GUID>1889000029</GUID>
+      <Text>Octavio Bellamy, Regulator of Urban Lifestyle</Text>
+    </Text>
+    <Text>
+      <GUID>1889000030</GUID>
+      <Text>Convinced that prosperity is built on well-directed habits, Bellamy transformed affluent, progressive districts into models of elegant and rational consumption. His standards for procurement and domestic organization allow for reduced consumption without diminishing the everyday experience.</Text>
+    </Text>
+    <!-- START Sigrún Nýhlfjörð, Supervisor of Refined Manufacturing-->   
+    <Text>
+      <GUID>1889000031</GUID>
+      <Text>Sigrún Nýhlfjörð, Supervisor of Refined Manufacturing</Text>
+    </Text>
+    <Text>
+      <GUID>1889000032</GUID>
+      <Text>Trained in industrial workshops and in the north, Sigrún applied industrial discipline to the world of high-end luxury goods. Her talent lies in improving production, making factories operate with clockwork precision regardless of the additional costs involved.</Text>
+    </Text>
+    <!-- START Journal of Scientific Discoveries-->   
+    <Text>
+      <GUID>1889000033</GUID>
+      <Text>Journal of Scientific Discoveries</Text>
+    </Text>
+    <Text>
+      <GUID>1889000034</GUID>
+      <Text>A compendium of meticulously compiled research that organizes and preserves the latest advances in scientific thought. Its pages transform isolated observations into verifiable and accessible knowledge for scholars worldwide.</Text>
+    </Text>
+    <!-- START Letter from Penpal-->   
+    <Text>
+      <GUID>1889000035</GUID>
+      <Text>Letter from Penpal</Text>
+    </Text>
+    <Text>
+      <GUID>1889000036</GUID>
+      <Text>A letter arriving from distant lands, carrying words brimming with affection and shared memories. Reading it eases the distance and transforms the wait into companionship, easing the nostalgia inherent in long-distance communication.</Text>
+    </Text>
+    <!-- START Letter from Son-->   
+    <Text>
+      <GUID>1889000037</GUID>
+      <Text>Letter from Son</Text>
+    </Text>
+    <Text>
+      <GUID>1889000038</GUID>
+      <Text>Few things brighten the day more than a child's heartfelt words, written with affection and endearing awkwardness. Every line conveys closeness, even from the greatest distance. Reading them makes any other correspondence seem superfluous compared to that irreplaceable bond.</Text>
+    </Text>
+    <!-- START Letter from Mom-->   
+    <Text>
+      <GUID>1889000039</GUID>
+      <Text>Letter from Mom</Text>
+    </Text>
+    <Text>
+      <GUID>1889000040</GUID>
+      <Text>A mother's words carry a warmth and tenderness that no other message can match. In every sentence, you can feel the care, concern, and constant love that transcends distance. Reading them comforts the soul and brings back a sense of home, even in the most distant places.</Text>
+    </Text>
+    <!-- START Beatrice Van Holtz, Curator of Aristocratic Wellbeing-->   
+    <Text>
+      <GUID>1889000048</GUID>
+      <Text>Beatrice Van Holtz, Curator of Aristocratic Wellbeing</Text>
+    </Text>
+    <Text>
+      <GUID>1889000049</GUID>
+      <Text>A specialist in the domestic life of high society, Van Holtz learned that even luxury needs rules to avoid becoming excessive. She reformed the management of investor mansions through service protocols, moderate consumption, and the efficient distribution of comfort.</Text>
+    </Text> 
+    <!-- START Marguerite Delacroix, Administrator of Domestic Welfare-->   
+    <Text>
+      <GUID>1889000027</GUID>
+      <Text>Marguerite Delacroix, Administrator of Domestic Welfare</Text>
+    </Text>
+    <Text>
+      <GUID>1889000028</GUID>
+      <Text>Convinced that luxury begins with everyday order, Delacroix dedicates her career to optimizing life in the first gourmet neighborhoods. It introduced domestic routines, efficient distribution of provisions, and norms of coexistence that reduce waste without sacrificing comfort.</Text>
+    </Text> 
+    <!-- START Leopold von Edelstein, Rare Gem Trader-->   
+    <Text>
+      <GUID>1889000303</GUID>
+      <Text>Leopold von Edelstein, Rare Gem Trader</Text>
+    </Text>
+    <Text>
+      <GUID>1889000304</GUID>
+      <Text>A descendant of an old family of Prussian imperial gemologists, he has dedicated his life to the search for and trade of the rarest and most precious stones. His contacts extend from forgotten mines and black markets to aristocratic salons where every gem tells a story.</Text>
+    </Text> 
+  </ModOp>
+</ModOps>
