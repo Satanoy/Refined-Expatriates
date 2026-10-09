@@ -4,6 +4,7 @@ This is a pre-alpha release; it is functional, but some models are missing, and 
 ##It adds:
 A new tier for Enbesa: "Sibaritas" (Gourmets), along with all the services and needs associated with them.
 ###Three new goods:
+
 -Fruit infusion. <img width="20" height="20" alt="infusion tea" src="https://github.com/user-attachments/assets/9023fc6b-de55-4721-9883-a98a2b1f738f" />
 
 -Drip coffee Pots. <img width="20" height="20" alt="pots" src="https://github.com/user-attachments/assets/e7932b3f-6ba1-4242-9655-552924f5c362" />
