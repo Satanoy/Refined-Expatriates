@@ -1,8 +1,11 @@
 # Refined-Expatriates
 Refined Expatriates (Pre-alpha).
 This is a pre-alpha release; it is functional, but some models are missing, and I am not certain that every aspect of the mod works perfectly—use at your own risk.
+
 ##It adds:
+
 A new tier for Enbesa: "Sibaritas" (Gourmets), along with all the services and needs associated with them.
+
 ###Three new goods:
 
 -Fruit infusion. <img width="20" height="20" alt="infusion tea" src="https://github.com/user-attachments/assets/9023fc6b-de55-4721-9883-a98a2b1f738f" />
