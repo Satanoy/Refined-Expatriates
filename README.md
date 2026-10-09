@@ -7,7 +7,7 @@ support only spanish and partially english
 
 ##It adds:
 
-A new tier for Enbesa: "Sibaritas" (Gourmets), along with all the services and needs associated with them.
+A new tier for Enbesa: "Sibarites", along with all the services and needs associated with them.
 
 ###Three new goods:
 
