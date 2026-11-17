@@ -18,6 +18,7 @@ A new tier for Enbesa: "Sibarites", along with all the services and needs associ
 -Leather gloves. <img width="20" height="20" alt="leather gloves" src="https://github.com/user-attachments/assets/bcc24fd7-8f32-4ada-8a21-9e875f237c96" />
 
 
-<img width="1666" height="1024" alt="banner" src="https://github.com/user-attachments/assets/91e8d2c9-70ac-4505-9e45-90eab571ed68" />
+<img width="1666" height="1024" alt="ñamkw" src="https://github.com/user-attachments/assets/4792936a-8a31-4f37-961f-3fe05d56a6f9" />
+
 
 
